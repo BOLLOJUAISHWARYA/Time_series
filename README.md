@@ -8,8 +8,8 @@ In this, I have used the Air Quality dataset. This is a dataset that reports on 
 - Data preparation
 - Data visualization
 - LSTM data preparation
-- Fit model 
-- Evaluate model
+- Fit the model 
+- Evaluate the model
 
 ### Data preparation
 - Replaced NA values
