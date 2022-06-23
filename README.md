@@ -24,6 +24,8 @@ In this, I have used the Air Quality dataset. This is a dataset that reports on 
 - Defined LSTM with 50 neurons in the first hidden layer and 1 neuron in the output layer for predicting pollution
 - Added dropout at 20% after every layer
 
+- Defined GRU with 50 neurons in the first hidden layer and 1 neuron in the output layer for predicting pollution
+
 ### Forecasting
 - Make prediction
 - Invert scaling
