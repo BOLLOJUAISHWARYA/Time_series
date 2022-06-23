@@ -1,5 +1,5 @@
 # Air-Pollution-Forecasting
-An LSTM model to predict the pollution levels in the next hour using the weather conditions and pollution levels in the current hour. I have trained the model using multi-variate(when we consider multiple features for prediction).
+To predict the pollution levels in the next hour using the weather conditions and pollution levels in the current hour. 
 
 ## Dataset
 In this, I have used the Air Quality dataset. This is a dataset that reports on the weather and the level of pollution each hour for five years at the US embassy in Beijing, China. The data includes the date-time, pollution called PM2.5 concentration, and the weather information including dew point, temperature, pressure, wind direction, wind speed and the cumulative number of hours of snow and rain. 
