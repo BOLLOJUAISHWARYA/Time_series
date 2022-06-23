@@ -15,18 +15,16 @@ In this, I have used the Air Quality dataset. This is a dataset that reports on 
 - Replaced NA values
 - Parsed date-time into pandas dataframe index
 - Specified clear names for each columns
-
-### LSTM data preparation
 - Normalized data
 - Transformed dataset into supervised learning problem by using slicing window method/lag method.
 
-### Model Fitting
+### Model Building
 - Splited data into train and test
 - Reshaped into 3D
 - Defined LSTM with 50 neurons in the first hidden layer and 1 neuron in the output layer for predicting pollution
 - Added dropout at 20% after every layer
 
-### Evaluate model
+### Forecasting
 - Make prediction
 - Invert scaling
 - Ploted the loss graph.
