@@ -7,9 +7,8 @@ In this, I have used the Air Quality dataset. This is a dataset that reports on 
 ## Steps followed
 - Data preparation
 - Data visualization
-- Data preparation
-- Fit the model 
-- Evaluate the model
+- Model Building 
+- Forecasting
 
 ### Data preparation
 - Replaced NA values
